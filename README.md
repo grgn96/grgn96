@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @grgn96
-- 👀 I’m interested in developing codes to manage robots (humanoid robots) social behaviours during social interactions with humans!
-- 🌱 I’m currently learning CLIPS and Python, as programming languages. I'm a student at UniPi (Pisa, Italy).
+- 👋 Andrea Gargano
+- 👀 I’m interested in developing codes for affective computing, statistics and wearable sensors applications.
+- 🌱 I’m currently learning CLIPS, Python, and MATLAB as programming languages. I'm a PhD student at UniPi (Pisa, Italy).
 - 📫 How to reach me: andrea.grgn96@gmail.com
 
 <!---
